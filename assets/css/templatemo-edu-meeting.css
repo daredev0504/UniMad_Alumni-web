@@ -785,8 +785,9 @@ services
   background-position: center center;
   border-radius: 20px;
   text-align: center;
+  height: 300px;
   color: #fff;
-  padding: 40px;
+  padding: 45px;
 }
 
 .services .item .icon {

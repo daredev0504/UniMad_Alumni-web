@@ -16,10 +16,18 @@
 .flexing-item{
     margin-right: 1.5em;
 }
-
+.leader-hero{
+    margin-top: 10em;
+}
+.leader-text{
+    font-size: 3.5em;
+    font-weight: bolder;
+}
 @media screen and (max-width: 767px) {
     .hero{
         height: 500px;
     }
-  
+    .leader-text{
+        font-size: 2.5em;
+    }
 }

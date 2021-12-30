@@ -23,11 +23,21 @@
     font-size: 3.5em;
     font-weight: bolder;
 }
+
+.logo-fix{
+   width: 100px;
+
+}
+
 @media screen and (max-width: 767px) {
     .hero{
         height: 500px;
     }
     .leader-text{
         font-size: 2.5em;
+    }
+    .logo-fix{
+        width:100px;
+        background-color: red;
     }
 }
